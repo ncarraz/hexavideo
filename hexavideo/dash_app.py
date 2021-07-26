@@ -8,7 +8,6 @@ import plotly.express as px
 import pandas as pd
 import plotly.graph_objects as go
 from plotly.colors import n_colors
-import cv2
 from skimage import io
 import flask
 import glob
